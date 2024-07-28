@@ -7,7 +7,7 @@
 #include "AuraCharacter.generated.h"
 
 /**
- * Good
+ * Good 1
  */
 UCLASS()
 class AURA_API AAuraCharacter : public AAuraCharacterBase
